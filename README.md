@@ -1,0 +1,2 @@
+# KarmaQueries
+Unit testing angular
